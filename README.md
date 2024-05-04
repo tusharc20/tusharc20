@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Chaudhari</h1>
 <h3 align="center">Jack of all trades, Master of none. Full Stack Engineer | Web3 enthusiast</h3>
 <img align = "left" alt ="coding src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharc20&label=Profile%20views&color=0e75b6&style=flat" alt="tusharc20" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharc20" alt="tusharc20" /></a> </p>
 
