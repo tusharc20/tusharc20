@@ -2,6 +2,7 @@
 <h3 align="center">Jack of all trades, Master of none. Full Stack Engineer | Web3 enthusiast</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharc20&label=Profile%20views&color=0e75b6&style=flat" alt="tusharchaudhari" /> </p>
 
 
 
